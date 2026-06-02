@@ -1,0 +1,6 @@
+{
+  "name": "Kartike Saree Center",
+  "description": "Complete Women's Fashion & Elegance. Premium ladies fashion and saree showroom featuring Paithani Silk, Wedding collections, and modern designer wear in Amalner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
